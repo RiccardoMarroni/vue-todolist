@@ -21,6 +21,8 @@
     border: 1px solid black;
     cursor: pointer;
 }
+
+
 /* TASKS */
 .user-tasks{
     background-color: aquamarine;
@@ -39,4 +41,13 @@
 }
 .task i{
     cursor: pointer;
+}
+
+
+.task span{
+    cursor: pointer;
+}
+
+.done{
+    text-decoration: line-through;
 }

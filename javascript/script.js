@@ -5,23 +5,23 @@ createApp({
         return {
             tasks: [
                 {
-                    text: 'Pulire la casa',
+                    text: '1',
                     done: false
                 },
                 {
-                    text: 'Fare il bucato',
+                    text: '2',
+                    done: true
+                },
+                {
+                    text: '3',
                     done: false
                 },
                 {
-                    text: 'Buttare la spazzatura',
+                    text: '4',
                     done: false
                 },
                 {
-                    text: 'Fare i compiti',
-                    done: false
-                },
-                {
-                    text: 'Cambiare la lampadina',
+                    text: '5',
                     done: false
                 },
             ]
