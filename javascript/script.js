@@ -6,22 +6,27 @@ createApp({
             newText: "",
             tasks: [
                 {
+                    id: 1,
                     text: 'Dare il cencio',
                     done: false
                 },
                 {
+                    id: 2,
                     text: 'Far mangiare i gatti',
                     done: true
                 },
                 {
+                    id: 3,
                     text: 'Pulire il vaso rotto dai gatti',
                     done: false
                 },
                 {
+                    id: 4,
                     text: 'Fare la spesa',
                     done: false
                 },
                 {
+                    id: 5,
                     text: 'Lavare la macchina',
                     done: false
                 },
